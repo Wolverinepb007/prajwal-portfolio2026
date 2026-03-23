@@ -41,4 +41,4 @@ A modern, fast, and responsive portfolio website built with **React JS** and **T
 
 ---
 
-Built with ❤️ by Prajwal Bhandari.
+Built with ❤️ by [Anish Khatri](https://anish.vip/)
